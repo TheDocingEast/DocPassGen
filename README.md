@@ -6,7 +6,7 @@
 1. Clone git repo:
 
 ```bash
-git clone https://github.com/yourusername/passgen.git
+git clone https://github.com/TheDocingEast/DocPassGen.git
 cd passgen
 ```
 
