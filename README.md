@@ -7,7 +7,7 @@
 
 ```bash
 git clone https://github.com/TheDocingEast/DocPassGen.git
-cd passgen
+cd DocPassGen
 ```
 
 2. Install packages:
